@@ -1,0 +1,3 @@
+#bin
+ls
+touch we.txt /home/ec2-user
